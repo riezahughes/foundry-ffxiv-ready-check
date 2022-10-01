@@ -1,0 +1,17 @@
+{
+  "id": "foundry-ffxiv-ready-check",
+  "title": "FFXIV Ready Check for Foundry",
+  "description": "An example of the ready check from ffxiv. ",
+  "authors": [
+    {
+      "name": "riezahughes"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "verified": "10"
+  },
+  "esmodules": [
+    "./src/modules"
+  ]
+}
